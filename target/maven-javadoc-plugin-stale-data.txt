@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'E:/Stuff/004364/6 sem/nexin/NexignCDR/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Stuff/004364/6 sem/nexin/NexignCDR/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NexignCDR 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/Stuff/004364/6 sem/nexin/NexignCDR/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'NexignCDR 1.0-SNAPSHOT API'
+com.mycompany.nexigncdr
+'E:/Stuff/004364/6 sem/nexin/NexignCDR/src/main/java/com/mycompany/nexigncdr/Call.java'
+'E:/Stuff/004364/6 sem/nexin/NexignCDR/src/main/java/com/mycompany/nexigncdr/NexignCDR.java'
+'E:/Stuff/004364/6 sem/nexin/NexignCDR/src/main/java/com/mycompany/nexigncdr/Report.java'
+E:\Stuff\004364\6 sem\nexin\NexignCDR\src\main\java = 1679581823942
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\allclasses-index.html = 1679771612091
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\allclasses.html = 1679771612103
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\allpackages-index.html = 1679771612094
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\constant-values.html = 1679771612024
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\deprecated-list.html = 1679771612102
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\element-list = 1679771612003
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\help-doc.html = 1679771612111
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\index-all.html = 1679771612085
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\index.html = 1679771612106
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\jquery-ui.overrides.css = 1679771612152
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\member-search-index.js = 1679771612081
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\member-search-index.zip = 1679771612082
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\overview-tree.html = 1679771612051
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\package-search-index.js = 1679771612064
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\package-search-index.zip = 1679771612077
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\script.js = 1679771612117
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\search.js = 1679771612119
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\stylesheet.css = 1679771612115
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\type-search-index.js = 1679771612080
+E:\Stuff\004364\6 sem\nexin\NexignCDR\target\apidocs\type-search-index.zip = 1679771612081

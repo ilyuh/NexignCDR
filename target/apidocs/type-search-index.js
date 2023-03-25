@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.mycompany.nexigncdr","l":"Call"},{"p":"com.mycompany.nexigncdr","l":"NexignCDR"},{"p":"com.mycompany.nexigncdr","l":"Report"}]
